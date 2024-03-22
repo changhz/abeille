@@ -2,7 +2,7 @@
 simple interface powered by LLMs between human and machines
 
 ## Usage
-``` sh
+```
 abeille "what time is it?"
 To get the current time of the system, I will run the following command
 `date`
